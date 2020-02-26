@@ -1,0 +1,7 @@
+CREATE TABLE
+  SMNTC_PRICING_ANALYTICS_FACT.FACT_ITEM_PRICE_LIST_LOG ( start_date datetime,
+    end_date datetime,
+    status STRING,
+    err_msg STRING,
+    err_st_txt STRING,
+    err_st_trc STRING )
